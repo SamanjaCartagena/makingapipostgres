@@ -1,0 +1,21 @@
+[
+    {
+        "id":1,
+        "message":"Love is around the corner",
+        "lucky_number":12,
+        "spirit_animal":"Dog"
+        
+    },
+    {
+        "id":2,
+        "message":"Job is around the corner",
+        "lucky_number":6,
+        "spirit_animal":"Cat"
+    },
+    {
+        "id":3,
+        "message":"Money is around the corner",
+        "lucky_number":15,
+        "spirit_animal":"Parrot"
+    }
+]
